@@ -1,5 +1,7 @@
 # Spark AR workshop : Italia
 
+<img src="./readme-assets/image.png" alt="readme-title" width="100%"/>
+
 ### Che cosa faremo?
 
 ### Cosa dobbiamo fare per iniziare?
